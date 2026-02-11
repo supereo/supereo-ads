@@ -260,3 +260,4 @@ app-stock.com, 358747, RESELLER
 app-stock.com, 256917, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 lacunads.com, lcb555b3bc8667a09a, RESELLER
+google.com, pub-6636548156870862, DIRECT, f08c47fec0942fa0
